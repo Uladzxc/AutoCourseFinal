@@ -1,3 +1,4 @@
 [
-  "AutoCourseFinal/test_main_page.py::test_guest_can_go_to_login_page"
+  "AutoCourseFinal/test_main_page.py::test_guest_can_go_to_login_page",
+  "test_main_page.py::test_guest_can_go_to_login_page"
 ]

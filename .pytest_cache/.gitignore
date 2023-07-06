@@ -1,3 +1,5 @@
 # Created by pytest automatically.
 *.pytest_cache
+chromedriver.exe
+.pytest_cache
 
